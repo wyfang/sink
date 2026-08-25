@@ -23,10 +23,6 @@ pnpm dev
 
 项目支持 [Cloudflare Workers](./docs/deployment/workers.md) 与 [Cloudflare Pages](./docs/deployment/pages.md)，Workers 为推荐方案。部署前按[配置文档](./docs/configuration.md)设置站点 Token、KV、Analytics Engine 与可选服务密钥；不要提交真实 Token。
 
-## 来源与许可
+## 版权说明
 
-本仓库是 [miantiao-me/Sink](https://github.com/miantiao-me/Sink) 的 Fork，其源项目为 [ccbikai/Sink](https://github.com/ccbikai/Sink)。项目依据 [GNU Affero General Public License v3.0](./LICENSE) 发布，部署修改版时应按许可证要求向网络用户提供对应源码。
-
-上游版权归 Sink 原作者及贡献者所有。该 Fork 继续受 AGPL-3.0 约束，Fork 关系不会把上游版权转移给仓库所有者。
-
-完整归属与适用范围见 [NOTICE](./NOTICE) 与 [LICENSE_SCOPE.md](./LICENSE_SCOPE.md)。
+本项目是 [miantiao-me/Sink](https://github.com/miantiao-me/Sink) 的 Fork，原项目为 [ccbikai/Sink](https://github.com/ccbikai/Sink)，依据 [GNU Affero General Public License v3.0](./LICENSE) 发布。上游版权归原作者及贡献者所有；个人品牌和素材不在许可范围内。
